@@ -1,2 +1,2 @@
 # bd-sql-retoHospital
-base de datos sql server - Reto hospital
+base de datos sql server - Reto hospital 
